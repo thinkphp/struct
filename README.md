@@ -4,4 +4,4 @@
 
 ## References
 
-Problems solved in the book: "The basics of programming in C" by Doina Logofatu.
+Problems with Struct Data Type solved from the book: "The basics of programming in C" by Doina Logofatu.
